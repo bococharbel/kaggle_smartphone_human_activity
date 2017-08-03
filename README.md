@@ -1,0 +1,1 @@
+# kaggle_smartphone_human_activity
